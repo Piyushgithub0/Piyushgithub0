@@ -16,12 +16,6 @@ Welcome to my GitHub! I'm an Information Technology student with a growing passi
 - 🖥️ **3D Modeling**: Exploring Blender to enhance creativity in tech with 3D visuals.
 - 🌐 **Networking and Security**: Keen on understanding the backbone of secure and efficient data flow.
 
-## My Projects
-
-Here are some highlights of the projects you’ll find in my repositories:
-
-1. **Vitality Hub Mobile App**: An Android app that includes fitness routines, premium memberships, and payment integrations.
-2. **Routine Ease App**: A planner app with an elegant UI for easy task management and reminder and comes with group collaboration features.
 
 ## Let's Connect
 
